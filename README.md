@@ -7,7 +7,8 @@
 
 
 <br>
-WORK 잔디
+WORK 잔디밭
+<br>
 <img width="779" alt="스크린샷 2025-06-25 오후 11 15 07" src="https://github.com/user-attachments/assets/5293ce28-7b72-4155-9835-f45ed7d46878" />
 
 
