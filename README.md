@@ -6,7 +6,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoreanTuna&layout=compact&theme=dracula)
 
 
-
-WORK 잔디밭
 <br>
-https://github.com/MinwooRowan
+WORK 잔디
+<img width="779" alt="스크린샷 2025-06-25 오후 11 15 07" src="https://github.com/user-attachments/assets/5293ce28-7b72-4155-9835-f45ed7d46878" />
+
+
+
