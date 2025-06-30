@@ -6,7 +6,7 @@
 
 ❤️ 감정저장소 : 자신이 겪은 감정을 기록하며 감정타입의 변화를 확인하는 다이어리앱 [앱스토어 링크](https://apps.apple.com/kr/app/%EA%B0%90%EC%A0%95%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B0%90%EC%A0%95%EC%9D%BC%EA%B8%B0/id6472668660)
 
-✍️ Blog
+✍️ Blog</br>
 [벨로그 링크](https://velog.io/@hightuna2/posts)
 
 
