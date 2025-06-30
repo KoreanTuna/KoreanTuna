@@ -1,10 +1,10 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoreanTuna&show_icons=true&theme=dracula)
+📚 Education
 
+한동대학교 전산전자공학부 컴퓨터공학 / UX공학 복수전공 (2015.03 ~ 2023.08)
 
-<br>
+👀 Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoreanTuna&layout=compact&theme=dracula)
-
+❤️ 감정저장소 : 자신이 겪은 감정을 기록하며 감정타입의 변화를 확인하는 다이어리앱 [앱스토어 링크](https://apps.apple.com/kr/app/%EA%B0%90%EC%A0%95%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B0%90%EC%A0%95%EC%9D%BC%EA%B8%B0/id6472668660)
 
 <br>
 WORK 잔디밭
