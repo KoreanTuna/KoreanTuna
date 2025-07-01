@@ -13,8 +13,9 @@ Flutter에 관심이 많고, 여러가지 새로운 기술들을 써보며 비�
 🧠 슈퍼브레인 H : 인지중재 치료 소프트웨어 관리자웹 / 환자용 앱 개발 [소개링크](https://www.mysuperbrain.kr/)</br>
 ❤️ 감정저장소 : 자신이 겪은 감정을 기록하며 감정타입의 변화를 확인하는 1인 개발 다이어리앱 [앱스토어 링크](https://apps.apple.com/kr/app/%EA%B0%90%EC%A0%95%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B0%90%EC%A0%95%EC%9D%BC%EA%B8%B0/id6472668660)
 
-✍️ Blog</br>
-[벨로그 링크](https://velog.io/@hightuna2/posts)
+✍️ 가장 최근 Blog 포스트</br>
+[성실을 포기하지 않기](https://velog.io/@hightuna2/%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC)
+[Flutter Monad식 예외처리](https://velog.io/@hightuna2/Flutter-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-TryCatch-Monad)
 
 
 
