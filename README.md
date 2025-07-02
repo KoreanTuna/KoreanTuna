@@ -1,4 +1,5 @@
-<br><br>
+# For Korean
+
 ### Hello! Everyone!
 안녕하세요 세상을 선하게 변화시키고 싶은 개발자 송민우입니다.
 Flutter에 관심이 많고, 여러가지 새로운 기술들을 써보며 비교하는 것을 좋아합니다 :)<br>
@@ -26,4 +27,29 @@ Flutter에 관심이 많고, 여러가지 새로운 기술들을 써보며 비�
 <img width="779" alt="스크린샷 2025-06-25 오후 11 15 07" src="https://github.com/user-attachments/assets/5293ce28-7b72-4155-9835-f45ed7d46878" />
 
 
+# For English
+
+Hello! Everyone!
+Hi, I’m Minwoo Song, a developer passionate about making the world a better place through technology.
+I have a strong interest in Flutter, and I enjoy exploring and comparing various new technologies. :)
+Recently, I’ve been deeply thinking about how to build a flexible yet stable app architecture based on Flutter’s official architectural guidelines.
+
+📚 Education
+Handong Global University
+B.S. in Computer Science & Engineering / Double Major in UX Engineering
+(Mar 2015 – Aug 2023)
+
+👀 Projects
+🧠 SuperBrain H – Cognitive rehabilitation software for patients and web dashboard for clinicians
+Intro Link (Korean)
+
+❤️ EmoDiary – A solo-developed emotion diary app that tracks how your feelings change over time
+App Store Link (KR)
+
+✍️ Recent Blog Posts
+Staying Committed to Diligence (KR)
+Exception Handling in Flutter with the Monad Pattern (KR)
+
+🌱 Work Grass Field
+I’m steadily growing my Git contributions one commit at a time at work.
 
