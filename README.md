@@ -33,23 +33,23 @@ Hello! Everyone!
 Hi, I’m Minwoo Song, a developer passionate about making the world a better place through technology.
 I have a strong interest in Flutter, and I enjoy exploring and comparing various new technologies. :)<br>
 Recently, I’ve been deeply thinking about how to build a flexible yet stable app architecture based on Flutter’s official architectural guidelines.
-<br>
+<br><br>
 📚 Education
 Handong Global University
 B.S. in Computer Science & Engineering / Double Major in UX Engineering
 (Mar 2015 – Aug 2023)
-<br>
+<br><br>
 👀 Projects
 🧠 SuperBrain H – Cognitive rehabilitation software for patients and web dashboard for clinicians
 [Intro Link](https://www.mysuperbrain.kr/) (Korean)<br>
-
+<br>
 ❤️ EmotionBarn – A solo-developed emotion diary app that tracks how your feelings change over time
 [App Store Link](https://apps.apple.com/kr/app/%EA%B0%90%EC%A0%95%EC%A0%80%EC%9E%A5%EC%86%8C-%EA%B0%90%EC%A0%95%EC%9D%BC%EA%B8%B0/id6472668660) (KR)<br>
-<br>
+<br><br>
 ✍️ Recent Blog Posts
 [Staying Committed to Diligence (KR)](https://velog.io/@hightuna2/%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC)
 [Exception Handling in Flutter with the Monad Pattern (KR)](https://velog.io/@hightuna2/Flutter-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-TryCatch-Monad)
-
+<br><br>
 🌱 Work Grass Field
 I’m steadily growing my Git contributions one commit at a time at work.
 <br>
