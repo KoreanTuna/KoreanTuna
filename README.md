@@ -56,3 +56,7 @@ I’m steadily growing my Git contributions one commit at a time at work.
 <br>
 <img width="779" alt="스크린샷 2025-06-25 오후 11 15 07" src="https://github.com/user-attachments/assets/5293ce28-7b72-4155-9835-f45ed7d46878" />
 
+
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoreanTuna&layout=compact&theme=dracula)
+
