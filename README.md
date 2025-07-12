@@ -59,4 +59,4 @@ I’m steadily growing my Git contributions one commit at a time at work.
 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoreanTuna&layout=compact&theme=dracula)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoreanTuna&show_icons=true&theme=dracula)
