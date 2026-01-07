@@ -20,7 +20,8 @@ Flutter에 관심이 많고, 여러가지 새로운 기술들을 써보며 비�
 [성실을 포기하지 않기](https://velog.io/@hightuna2/%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC)<br>
 [Flutter Monad식 예외처리](https://velog.io/@hightuna2/Flutter-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-TryCatch-Monad)
 
-
+### Open Source
+🧑‍💻 flutter_aop : [오픈소스 라이브러리 개발](https://pub.dev/packages/flutter_aop)<br>
 
 ### Work 잔디밭
 회사에서 열심히 작업하며 잔디를 쌓아가고 있습니다.
@@ -51,6 +52,10 @@ B.S. in Computer Science & Engineering / Double Major in UX Engineering
 ✍️ Recent Blog Posts
 [Staying Committed to Diligence (KR)](https://velog.io/@hightuna2/%EB%8F%99%EA%B8%B0%EB%B6%80%EC%97%AC)
 [Exception Handling in Flutter with the Monad Pattern (KR)](https://velog.io/@hightuna2/Flutter-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC-TryCatch-Monad)
+
+### Open Source
+🧑‍💻 flutter_aop : [오픈소스 라이브러리 개발](https://pub.dev/packages/flutter_aop)<br>
+
 <br><br>
 🌱 Work Grass Field
 I’m steadily growing my Git contributions one commit at a time at work.
